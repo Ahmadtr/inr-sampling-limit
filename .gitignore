@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+harmonic-pmfiner-inr/
+FreSh/
+data/kodak/
+logs/
+*.log
+.DS_Store
